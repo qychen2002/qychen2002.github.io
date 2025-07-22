@@ -6,7 +6,5 @@ author_profile: true
 ---
 Contact information is below, including email and various web services.  This is to make it easy for people to find me when they search for me.  Here are some other places on the Internet where I reside.
 
-* E-mail: zalavaa@ccf.org
-* Twitter: [Ajay1685](http://twitter.com/ajay1685)
-* LinkedIn: [zalavadia](http://www.linkedin.com/in/zalavadia)
-* Image.sc forums: [Image.sc](https://forum.image.sc/u/Ajay_Zalavadia/summary)
+* E-mail: 2501112015@stu.pku.edu.cn
+* Phone number / WeChat: 13985166099
